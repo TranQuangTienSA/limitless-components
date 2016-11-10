@@ -1,0 +1,25 @@
+{
+  "name": "limitless-components",
+  "homepage": "https://github.com/tientq/limitless-components",
+  "authors": [
+    "Quang Tien <tientq@dkt.com.vn>"
+  ],
+  "description": "Components for Limitless - Responsive Web Application Kit",
+  "main": "dist/css/components.min.css",
+  "keywords": [
+    "limitless",
+    "dms",
+    "components"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "limitless-responsive-web-application-kit": "1.4"
+  }
+}
